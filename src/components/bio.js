@@ -47,9 +47,12 @@ const Bio = () => {
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
+            You should follow them on Twitter  
+          </a><span> and </span>
+          <a href={`https:jasonaw.netlify.app`}>
+            checkout my portfolio
           </a>
-          <p>Because I've went out with Lady Gaga and Taylor Swift on the same day!</p>
+          {/* <p>I've went out with Lady Gaga and Taylor Swift on the same day!</p> */}
         </p>
       )}
     </div>

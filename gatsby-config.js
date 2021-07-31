@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `My Starter Blog`,
+    title: `My Blog`,
     author: {
-      name: `Jason Aw`,
-      summary: `who is living the Economical way in Malaysia and being eco-friendly at the same time. Global Warming is real peeps come on!`,
+      name: `Jason`,
+      summary: `who is living in Malaysia and being eco-friendly at the same time. Global Warming is real peeps come on!`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,

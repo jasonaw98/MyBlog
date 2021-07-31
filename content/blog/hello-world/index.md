@@ -1,7 +1,7 @@
 ---
 title: Hello World
-date: "2021-07-28T22:12:03.284Z"
-description: "Hello World! This is my first post on my new fake blog! How exciting!"
+date: "2021-07-27T22:12:03.284Z"
+description: "Hello World! This is my first post on my new blog! How exciting!"
 ---
 
 This is my first post on my new fake blog! How exciting!
